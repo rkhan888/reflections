@@ -1,0 +1,43 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    by viewing the difference between two files we can spot any typos we might have had while making changes to the file.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    If i have made changes to a file that has caused bugs in my code then i can always go back to the previous version of that file. It will save time and i can also compare two versions.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Pros:
+	We dont need to worry about losing our changes because our file will be saved automatically.
+
+    Cons:
+	With automatically saving a version we will end up with alot of uneccessary versions without any notes about the changes made to each version.
+	It will take alot of space.
+	Versions created automatically may not be useful or meaningful
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Saving multiple files in one commit is much more efficient way to track changes when the files are related to each other. for ex if we add a button to our website in html file and position it in css file and commit changes both files will be updated in that version and changes are related to one change that we made. Treating each file separately might be a good idea when the files are not related to each other. In this case saving snapshot of each file may just be a waste of memory.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    display all the log for a repository then choose which two versions you want to compare, copy their commit ids and use git diff command to compare them.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    we can make changes without any fear because if we break something in the latest change we can always go back to the previous working version of the file. we can also compare the two files to see what changes have been made to find out the bug. hence there is the confidence.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Fill in your answer here
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+    I can see what changes have been done to the file and who has done those changes. which versions of the files were successful and which are not. and at what time which change is introduced to the file.
