@@ -7,6 +7,10 @@ it creates a .git directory in the repossitory. We need to do it because without
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+
+
+the files in the staging area are the files that are being changed and ready to be committed where as files in working directory are not changed. we can make logical commits by putting related files in one commit.
+
 How can you use the staging area to make sure you have one commit per logical
 change?
 
