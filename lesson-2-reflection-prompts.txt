@@ -19,7 +19,11 @@ change?
 I will keep on adding the changes to the file related to a certain logical change and keep on adding the file to the staging area until i feel that i have completed the changes related to a logical change and only then i will commit the changes.
 
 What are some situations when branches would be helpful in keeping your history
-organized? How would branches help?
+organized?
+
+Any new feature, enhancement, fix or an experimental feature can be made in a seperate branch to keep your history organised.
+
+How would branches help?
 
 How do the diagrams help you visualize the branch structure?
 
