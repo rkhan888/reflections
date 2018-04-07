@@ -34,5 +34,9 @@ diagrams gives a visualization of the whole git log and we can understand the st
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+
+
+merging two branches together adds the changes or features created in the branch to the production code which is the final application. We represent it in the diagram to give a visualization to the commit history so that one can tell where a new branch started and where it merged just by looking at the diagram.
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
