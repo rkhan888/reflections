@@ -40,3 +40,6 @@ merging two branches together adds the changes or features created in the branch
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+
+Automatic merging of two branches is very useful as it will merge two versions of program into one without any problem. and it also tells us when there is a conflict in any of the file(i.e. when different changes are being made to one file by different people) so that we can go into the file and resolve the issue by hand.
