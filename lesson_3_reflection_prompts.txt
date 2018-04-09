@@ -18,7 +18,7 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    If we dont have it would be hard to find out where the new commits have been introduced in each of the repositories.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
